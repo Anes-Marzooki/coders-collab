@@ -3,5 +3,6 @@ Live collaborative code editor, featuring video sharing, real time messaging and
 
 
 ## Planned
-[ ] - adding rooms
-[ ] - github integration
+- [ ] adding rooms
+- [ ] github integration
+- [ ] explorer
